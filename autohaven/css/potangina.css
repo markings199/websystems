@@ -1,0 +1,7 @@
+.potangina {
+    border: 5px solid #000; /* Example border */
+    border-radius: 10px;    /* Optional for rounded corners */
+    background-size: cover;
+    height: 550px;
+    background-position: center;
+}
